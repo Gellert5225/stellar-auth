@@ -1,5 +1,5 @@
 {
-  "name": "@stellar/stellar",
+  "name": "stellar-auth",
   "version": "1.0.0",
   "description": "A simple MongoDB client with JWT auth",
   "main": "index.js",
