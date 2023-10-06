@@ -9,6 +9,7 @@
   "author": "Gellert Li",
   "license": "ISC",
   "dependencies": {
+    "jsonwebtoken": "^9.0.2",
     "mongodb": "^4.1.3"
   }
 }
